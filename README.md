@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Lud3nX/Leethub-problems/tree/master/0620-not-boring-movies) |
 | [1390-average-selling-price](https://github.com/Lud3nX/Leethub-problems/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Lud3nX/Leethub-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Lud3nX/Leethub-problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Lud3nX/Leethub-problems/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Lud3nX/Leethub-problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Lud3nX/Leethub-problems/tree/master/1908-recyclable-and-low-fat-products) |
