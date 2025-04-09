@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Lud3nX/Leethub-problems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Lud3nX/Leethub-problems/tree/master/0620-not-boring-movies) |
 | [1155-product-sales-analysis-iii](https://github.com/Lud3nX/Leethub-problems/tree/master/1155-product-sales-analysis-iii) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Lud3nX/Leethub-problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1317-monthly-transactions-i](https://github.com/Lud3nX/Leethub-problems/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Lud3nX/Leethub-problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Lud3nX/Leethub-problems/tree/master/1390-average-selling-price) |
